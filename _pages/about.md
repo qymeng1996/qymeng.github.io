@@ -10,10 +10,10 @@ redirect_from:
 
 I am a PhD candidate and will graduate in June 2025. My major is Crop genetics and Breeding from [College of Plant Science & Technology](https://cpst.hzau.edu.cn/) of [Huazhong Agricultural University](https://www.hzau.edu.cn/). My research interest includes Genome assembly and annotation, Comparative Genomic, Population genetics, Epigenomic analysis and Transcriptome.
 
-I am very fortunate to be advised by [Prof. Yuan Daojun](https://faculty.hzau.edu.cn/ydj/zh_CN/skxx/91170/list/index.htm) of [Group of Cotton Genetic improvement](https://cotton.hzau.edu.cn/). 
+I am very fortunate to be advised by [Prof. Yuan Daojun](https://faculty.hzau.edu.cn/ydj/zh_CN/skxx/91170/list/index.htm) of [Group of Cotton Genetic improvement](https://cotton.hzau.edu.cn/) and [Prof. Jin Shuangxia](https://faculty.hzau.edu.cn/ShuangxiaJin/zh_CN/tzysd/93692/list/index.htm) of [Group of Cotton Genetic improvement](https://cotton.hzau.edu.cn/). 
 
 You can find my CV here: QYMeng's Vurriculum Viteas
 
-[Email]<mailto:qymeng1996@gmail.com>/[Github](https://github.com/qymeng1996)
+[Email]<mailto:qymeng1996@gmail.com>            [Github](https://github.com/qymeng1996)
 
 
