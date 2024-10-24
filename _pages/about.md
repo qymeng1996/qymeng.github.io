@@ -14,6 +14,6 @@ I am very fortunate to be advised by [Prof. Yuan Daojun](https://faculty.hzau.ed
 
 You can find my CV here: QYMeng's Vurriculum Viteas
 
-[Email](mailto:qymeng1996@gmail.com)            [Github](https://github.com/qymeng1996)
+[Email](mailto:qymeng1996@gmail.com)    /    [Github](https://github.com/qymeng1996)    /    [WeChat](../images/wechat.png)
 
 
